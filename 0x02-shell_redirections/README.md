@@ -1,1 +1,1 @@
-display files from 2 locations
+display last 11 lines
