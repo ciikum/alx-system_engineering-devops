@@ -1,1 +1,1 @@
-display words that dont match pattern
+display lines starting with letters only
