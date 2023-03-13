@@ -1,1 +1,1 @@
-display number of line that contain bin
+display patterns n lines after
