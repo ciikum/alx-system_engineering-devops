@@ -1,1 +1,1 @@
-display patterns n lines after
+display words that dont match pattern
