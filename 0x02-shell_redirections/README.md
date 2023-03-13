@@ -1,1 +1,1 @@
-display lines starting with letters only
+replace characters
