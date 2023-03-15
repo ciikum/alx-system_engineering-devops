@@ -1,1 +1,1 @@
-number of directories in PATH
+print environment
