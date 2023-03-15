@@ -1,1 +1,1 @@
-print environment
+list local and envvariables n functions
