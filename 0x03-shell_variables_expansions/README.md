@@ -1,1 +1,1 @@
-power
+binary base 2
