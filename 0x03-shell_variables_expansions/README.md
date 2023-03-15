@@ -1,1 +1,1 @@
-new global variable
+addition
